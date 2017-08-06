@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26403.7
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XmlFluentDocument", "XmlFluent\XmlFluentDocument.csproj", "{F052D039-868E-4D9C-BD6E-86135CE30BCE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F052D039-868E-4D9C-BD6E-86135CE30BCE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F052D039-868E-4D9C-BD6E-86135CE30BCE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F052D039-868E-4D9C-BD6E-86135CE30BCE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F052D039-868E-4D9C-BD6E-86135CE30BCE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
