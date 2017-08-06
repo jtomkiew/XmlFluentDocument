@@ -1,3 +1,7 @@
+### Build
+
+![BuildStatus](https://jtomkiew.visualstudio.com/_apis/public/build/definitions/c3a75e86-a502-4d07-b951-de6061a50719/1/badge)
+
 ### Example
 
 ```cs
