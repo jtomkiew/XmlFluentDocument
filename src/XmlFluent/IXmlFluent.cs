@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Xml;
 
-namespace XmlFluentDocument
+namespace XmlFluent
 {
     public interface IXmlFluent
     {

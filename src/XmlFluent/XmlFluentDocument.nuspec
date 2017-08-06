@@ -2,7 +2,7 @@
 <package >
   <metadata>
     <id>$id$</id>
-    <version>1.0.0</version>
+    <version>1.1.0</version>
     <title>$title$</title>
     <authors>jtomkiew</authors>
     <licenseUrl>https://github.com/jtomkiew/XmlFluentDocument/blob/master/src/LICENSE.md</licenseUrl>
@@ -10,7 +10,7 @@
     <iconUrl>https://github.com/jtomkiew/XmlFluentDocument/raw/master/data/icon.png</iconUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>$description$</description>
-    <releaseNotes>Initial version.</releaseNotes>
+    <releaseNotes>Changed default namespace to XmlFluent.</releaseNotes>
     <copyright>Copyright 2017</copyright>
     <tags>XML Fluent-Interface fluent document</tags>
   </metadata>

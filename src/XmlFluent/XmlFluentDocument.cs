@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Xml;
 
-namespace XmlFluentDocument
+namespace XmlFluent
 {
     /// <summary>
     ///     Based on XmlOutput-Nuget: https://github.com/cigano/XmlOutput-Nuget (origin: https://github.com/improvedk/XmlOutput)

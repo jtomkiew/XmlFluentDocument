@@ -7,7 +7,7 @@
     <ProjectGuid>{F052D039-868E-4D9C-BD6E-86135CE30BCE}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>XmlFluentDocument</RootNamespace>
+    <RootNamespace>XmlFluent</RootNamespace>
     <AssemblyName>XmlFluentDocument</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
