@@ -24,6 +24,9 @@ namespace XmlFluent
         // Whether the Xml declaration has been added to the document
         private bool _xmlDeclarationHasBeenAdded;
 
+        /// <summary>
+        ///     Use XmlFluentDocument.New() to get object instance.
+        /// </summary>
         protected XmlFluentDocument()
         {
         }
@@ -118,7 +121,7 @@ namespace XmlFluent
         }
 
         /// <summary>
-        ///     Creates root node with attributes specified by function func.
+        ///     Creates root node with attributes specified by function.
         /// </summary>
         /// <param name="name"></param>
         /// <param name="func"></param>
@@ -175,7 +178,7 @@ namespace XmlFluent
         }
 
         /// <summary>
-        ///     Creates a node with attributes specified by function func. It'll be appended as a child of the current node.
+        ///     Creates a node with attributes specified by function. It'll be appended as a child of the current node.
         /// </summary>
         /// <param name="name">The name of the node to create.</param>
         /// <param name="func"></param>
