@@ -2,16 +2,17 @@
 <package >
   <metadata>
     <id>$id$</id>
-    <version>1.1.0</version>
+    <version>$version$</version>
     <title>$title$</title>
-    <authors>jtomkiew</authors>
+    <description>$description$</description>
+    <summary>Fluent interface for writing XML.</summary>
+    <authors>Mark S. Rasmussen, jtomkiew</authors>
     <licenseUrl>https://github.com/jtomkiew/XmlFluentDocument/blob/master/src/LICENSE.md</licenseUrl>
     <projectUrl>https://github.com/jtomkiew/XmlFluentDocument</projectUrl>
     <iconUrl>https://github.com/jtomkiew/XmlFluentDocument/raw/master/data/icon.png</iconUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
-    <description>$description$</description>
-    <releaseNotes>Changed default namespace to XmlFluent.</releaseNotes>
-    <copyright>Copyright 2017</copyright>
-    <tags>XML Fluent-Interface fluent document</tags>
+    <releaseNotes>Added xml-docs.</releaseNotes>
+    <copyright>$copyright$</copyright>
+    <tags>XML Fluent-Interface fluent document XmlOutput</tags>
   </metadata>
 </package>

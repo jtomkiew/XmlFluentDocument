@@ -1,4 +1,5 @@
 Copyright (c) 2011 Mark S. Rasmussen, http://improve.dk
+Copyright (c) 2017 jtomkiew, https://github.com/jtomkiew
 
 Permission is hereby granted, free of charge, to any person obtaining
 a copy of this software and associated documentation files (the
